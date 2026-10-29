@@ -4,8 +4,7 @@ I'm an aspiring Full-Stack Developer and ICT graduate interested in building web
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@androidguy4049) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33248563) 
-
-## 🌐 Socials:
+##
 
 # 💻 Tech Stack:
 # Frontend:
